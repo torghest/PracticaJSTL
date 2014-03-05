@@ -54,18 +54,18 @@
                                     <td>
                                         <table width="100%">
                                             <tr>
-                                                <td style="border: 1px solid; background-color: #CCCCCC">
-                                                    Nombre: ${equipo.nombre}
+                                                <td style="border: 1px solid; background-color: #CCCCCC; padding: 0px 6px;">
+                                                    <b>Nombre:</b> ${equipo.nombre}
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td style="border: 1px solid; background-color: #CCCCCC">
-                                                    Fundación: ${equipo.fundacion}
+                                                <td style="border: 1px solid; background-color: #CCCCCC; padding: 0px 6px;">
+                                                    <b>Año de Fundación:</b> ${equipo.fundacion}
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td style="border: 1px solid; background-color: #CCCCCC">
-                                                    Presidente: ${equipo.presidente}
+                                                <td style="border: 1px solid; background-color: #CCCCCC; padding: 0px 6px;">
+                                                    <b>Presidente:</b> ${equipo.presidente}
                                                 </td>
                                             </tr>
                                         </table>
