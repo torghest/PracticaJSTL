@@ -21,7 +21,7 @@
     <body>
         <div align="center">
             <div style="border: 2px solid; display: inline-block; background-color: #CCCCFF; padding: 10px">
-                <form name="form" action="calidad.jsp" method="post">
+                <form name="form" action="Calidad.jsp" method="post">
                     <table width="100%">
                         <tr>
                             <td align="left">
@@ -117,9 +117,6 @@
                                         </tr>
                                     </c:forEach>
                                 </table>
-                            </td>
-                            <td>
-
                             </td>
                         </tr>
                     </table>
